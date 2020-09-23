@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
+
+#header{
+    font-family: 'Satisfy', cursive;
+
+}
+#carro{
+    text-align: center;
+    width: 50px;
+}
+#banner{
+    width: 100%;
+    height: 300px;
+}
+#numitems{
+    font-size: medium;
+
+}
+#categ{
+    text-align: center;
+}
+#food{
+    text-align: center;
+
+}
+
+#rightDiv{
+    margin-left:auto; 
+    margin-right:0;
+    padding-right: 20px;
+}
+
+.card{
+    width: 275px;
+    margin: 15px;
+    padding: 15px;
+
+
+}
+
+.card-title{
+    text-align: left;
+}
+
+.card-text{
+    text-align: left;
+}
+
+
+.nopadding {
+    padding: 0 !important;
+    margin: 0 !important;
+ }
